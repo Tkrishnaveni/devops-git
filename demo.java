@@ -1,6 +1,0 @@
-Java
-{
-	 some java code
-
-}
-
